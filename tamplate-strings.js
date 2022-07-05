@@ -9,3 +9,13 @@ ${idade}, nasci na cidade de ${cidadeDeNascimento}`
 
 console.log(apresentacao)
 
+a = []
+b = 20
+c = true 
+d = ''
+
+if (b == '20'){
+    console.log("verdadeiro")
+} else {
+    console.log("falso")
+}

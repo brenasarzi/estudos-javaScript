@@ -1,3 +1,4 @@
+// for é um laço de repetição
 const numeros = [100, 200, 300, 400, 500, 600]
 // i = valor de controle
 

@@ -1,5 +1,5 @@
 // foreach passa por cada elemento do array
-
+// O PARAMETRO OBRIGATÓRIO PARA UM FOREACH uma função que recebe um elemento.
 const notas = [10, 6.5, 8, 7.5]
 
 let somaDasNotas = 0

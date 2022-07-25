@@ -1,26 +1,46 @@
 const listaLivros = [
     {
-        titulo:"JavaScript",
-        preco: 25
+        titulo:"Go",
+        preco: 45
     },
     {
-        titulo:"PHP",
-        preco: 15
+        titulo:"C++",
+        preco: 35
     },
     {
         titulo:"Java",
         preco: 30
     }, 
     {
+        titulo:"PHP",
+        preco: 15
+    },
+    {
         titulo:"Elixir",
         preco: 50
     },
     {
-        titulo:"Go",
-        preco: 45
+        titulo:"Rust",
+        preco: 22
+    },    
+    {
+        titulo:"Scala",
+        preco: 40
+    },  
+    {
+        titulo:"Ruby",
+        preco: 28
+    },    
+    {
+        titulo:"JavaScript",
+        preco: 25
     },
     {
-        titulo:"Python",
+        titulo:"C#",
+        preco: 33
+    },
+    {
+        titulo:"Phyton",
         preco: 20
     }
 ]

@@ -25,15 +25,3 @@ admin.criarCurso()
 admin.exibirInfos()
 
 
-// herança de protótipo
-// user.exibirInfos()
-
-// // retornará undefined pois não encontrou a quem se refere
-// const exibir = function(){
-//     console.log(this.nome, this.email)
-// }
-// exibir() 
-
-// // liga uma função a um objeto, dando contexto a função
-// const exibirNome = exibir.bind(user)
-// exibirNome()
